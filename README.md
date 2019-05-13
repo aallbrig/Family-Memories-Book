@@ -1,8 +1,4 @@
-[Demo Days Github Page link](https://github.exacttarget.com/pages/aallbright/family-memories-book-demos/).
-
-[Andrew's "Drop Box" Page](https://confluence.internal.salesforce.com/display/MC/Andrew%27s+Personal+Drop+Box), used for video hosting.
-
-### Demo Day Gitbook
+[Github Pages link https://github.exacttarget.com/pages/aallbrig/family-memories-book/](https://github.exacttarget.com/pages/aallbrig/family-memories-book/).
 
 #### Usage
 - Build image
