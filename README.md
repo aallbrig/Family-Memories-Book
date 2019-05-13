@@ -1,4 +1,4 @@
-[Github Pages link https://github.com/pages/aallbrig/family-memories-book/](https://github.com/pages/aallbrig/family-memories-book/).
+[Github Pages link (https://aallbrig.github.io/Family-Memories-Book/)](https://aallbrig.github.io/Family-Memories-Book/).
 
 #### Usage
 - Build image
