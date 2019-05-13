@@ -1,0 +1,15 @@
+{
+  "name": "family-memories-book",
+  "version": "0.0.1",
+  "description": "This is a Git Book served on Git Pages of a family memory book my Dad talked about today",
+  "main": "index.js",
+  "scripts": {
+    "start": "gitbook serve",
+    "build": "gitbook build . $BUILD_DIR"
+  },
+  "author": "Andrew Allbright",
+  "license": "ISC",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
