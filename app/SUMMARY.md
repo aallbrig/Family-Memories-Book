@@ -1,6 +1,6 @@
 # Summary
 
-* Placeholder link
+* Placeholder link (TODO: Remove this link when you figure out how to remove above "Introduction" link)
 
 ---
 ---
