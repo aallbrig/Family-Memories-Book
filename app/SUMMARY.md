@@ -17,10 +17,5 @@
 ---
 ---
 
-TODO: Remove these links
-* [Introduction](README.md)
----
-* [Poems](chapters/Poems.md)
-* [Letters](chapters/Letters.md)
----
+TODO: Remove this links
 * [Markdown Demonstration (for editors of this book ;)](chapters/Markdown-Demonstration.md)

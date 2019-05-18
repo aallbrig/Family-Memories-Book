@@ -1,1 +1,1 @@
-This is a template page
+This is a front cover
