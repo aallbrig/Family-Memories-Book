@@ -11,13 +11,13 @@
 
 ---
 
-#### Letter to Kennedy
+#### Letter to Kenny
 (TODO: Stitch images together)
 
-![Letter Kennedy 1][Letter Kennedy 1]
-![Letter Kennedy 2][Letter Kennedy 2]
-![Letter Kennedy 3][Letter Kennedy 3]
-![Letter Kennedy 4][Letter Kennedy 4]
+![Letter to Kenny 1][Letter to Kenny 1]
+![Letter to Kenny 2][Letter to Kenny 2]
+![Letter to Kenny 3][Letter to Kenny 3]
+![Letter to Kenny 4][Letter to Kenny 4]
 
 ---
 
@@ -34,7 +34,6 @@
 ---
 
 #### Tribute to Ruby
-![Tribute to Ruby 1][Tribute to Ruby 1]
 ![Tribute to Ruby 2][Tribute to Ruby 2]
 ![Tribute to Ruby 3][Tribute to Ruby 3]
 ![Tribute to Ruby 4][Tribute to Ruby 4]
@@ -68,18 +67,18 @@
 ---
 
 #### Get Well Maggie
-![Get Well Maggie 1][Get Well Maggie 1]
 ![Get Well Maggie 2][Get Well Maggie 2]
 ![Get Well Maggie 3][Get Well Maggie 3]
+![Get Well Maggie 1][Get Well Maggie 1]
 
 
 [Letter Mom 1]: ../media/05-2019-Letter-Mom/Letter%20Mom_0001.jpg
 [Letter Mom 2]: ../media/05-2019-Letter-Mom/Letter%20Mom_0002.jpg
 [Letter Evelyn]: ../media/05-2019-Letter-Evelyn/Letter%20Evelyn.jpg
-[Letter Kennedy 1]: ../media/05-2019-Letter-Kennedy/Letter%20Kennedy_0001.jpg
-[Letter Kennedy 2]: ../media/05-2019-Letter-Kennedy/Letter%20Kennedy_0002.jpg
-[Letter Kennedy 3]: ../media/05-2019-Letter-Kennedy/Letter%20Kennedy_0003.jpg
-[Letter Kennedy 4]: ../media/05-2019-Letter-Kennedy/Letter%20Kennedy_0004.jpg
+[Letter to Kenny 1]: ../media/05-2019-Letter-Kenny/Letter%20Kenny_0001.jpg
+[Letter to Kenny 2]: ../media/05-2019-Letter-Kenny/Letter%20Kenny_0002.jpg
+[Letter to Kenny 3]: ../media/05-2019-Letter-Kenny/Letter%20Kenny_0003.jpg
+[Letter to Kenny 4]: ../media/05-2019-Letter-Kenny/Letter%20Kenny_0004.jpg
 [Tribute to Chippie 1]: ../media/05-2019-Tribute-Chippy/Tribute%20Chippy_0001.jpg
 [Tribute to Chippie 2]: ../media/05-2019-Tribute-Chippy/Tribute%20Chippy_0002.jpg
 [Tribute to Chippie 3]: ../media/05-2019-Tribute-Chippy/Tribute%20Chippy_0003.jpg
