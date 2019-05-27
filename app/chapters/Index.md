@@ -1,28 +1,119 @@
-# Index
 
-* Faith, Family and Friends
+<center><h4>Index</h4></center>
+
+```
+Variation 1:
+- Bold text for chapter titles
+- No well for unordered list for Maggie's writing
+```
+
+__FAITH, FAMILY, AND FRIENDS__
+
+* The Farm
+* The One Room School
+* Our Days at Webb
+* Old West Baden High
+* The Big Event
+* Evelyn
+* A Tribute to Our Sister
+* Kenny
+* Forever Olive
+* Among the Pines
+* Breakfast at Blanche’s
+* Mimi
+
+__MEMORIES IN SHORT ESSAYS__
+* Anecdote: The Mask
+* An Autumn Afternoon
+* James Frederick Summers
+* Autumn Visit
+
+__TRIBUTES AND WELL WISHES__
+* To My Sister, Maggie
+* To Nannan On Her 84th Birthday
+
+__INSPIRATION AND REFLECTION__
+* Today
+* Hug Therapy
+* Dag Hammarskjold’s Prayer
+* Leisure
+* Psalms to Pray When…
+
+
+```
+Variation 2:
+- Italicized text for chapter titles
+- No well for unordered list for Maggie's writing
+```
+
+_FAITH, FAMILY, AND FRIENDS_
+
+* The Farm
+* The One Room School
+* Our Days at Webb
+* Old West Baden High
+* The Big Event
+* Evelyn
+* A Tribute to Our Sister
+* Kenny
+* Forever Olive
+* Among the Pines
+* Breakfast at Blanche’s
+* Mimi
+
+_MEMORIES IN SHORT ESSAYS_
+
+* Anecdote: The Mask
+* An Autumn Afternoon
+* James Frederick Summers
+* Autumn Visit
+
+_TRIBUTES AND WELL WISHES_
+
+* To My Sister, Maggie
+* To Nannan On Her 84th Birthday
+
+_INSPIRATION AND REFLECTION_
+* Today
+* Hug Therapy
+* Dag Hammarskjold’s Prayer
+* Leisure
+* Psalms to Pray When…
+
+
+```
+Variation 3:
+- Italicized text for chapter titles
+- Well for unordered list for Maggie's writing
+```
+
+_FAITH, FAMILY, AND FRIENDS_
     * The Farm
     * The One Room School
+    * Our Days at Webb
     * Old West Baden High
-    * Among The Pines
-    * Breakfast At Blanche's
-    * Today
-    * Our Days At Webb
-    * My Dad
-    * An Autumn Afternoon
-* Tributes and Memories
-    * Letter to Mom
-    * Letter to Evelyn
-    * Letter to Kenny
-    * Tribute to Chippy
     * The Big Event
-    * Tribute to Ruby
-    * Tribute to Mimi
-    * Tribute to Olive
-    * About Sister Maggie
-    * Happy Birthday Maggie
-    * Get Well Maggie
-* Inspiration and Reflection
-    * God's Will For Me
+    * Evelyn
+    * A Tribute to Our Sister
+    * Kenny
+    * Forever Olive
+    * Among the Pines
+    * Breakfast at Blanche’s
+    * Mimi
+
+_MEMORIES IN SHORT ESSAYS_
+    * Anecdote: The Mask
+    * An Autumn Afternoon
+    * James Frederick Summers
+    * Autumn Visit
+
+_TRIBUTES AND WELL WISHES_
+    * To My Sister, Maggie
+    * To Nannan On Her 84th Birthday
+
+_INSPIRATION AND REFLECTION_
+    * Today
     * Hug Therapy
-    * I Shall Kneel
+    * Dag Hammarskjold’s Prayer
+    * Leisure
+    * Psalms to Pray When…
