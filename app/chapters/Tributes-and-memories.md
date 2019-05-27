@@ -1,102 +1,92 @@
-# Tributes and Memories
+<center><h1>TRIBUTES AND WELL WISHES</h1></center>
 
-#### Letter to Mom
-![Letter to Mom 1][Letter Mom 1]
-![Letter to Mom 2][Letter Mom 2]
+<center><h4><u>To My Sister, Maggie</u></h4></center>
+Maggie has devoted herself as a wife
+And now has children in her life.
 
----
+She’s weathered many heartaches
+There were so hard to bear
+But all her family try to make
+Her griefs lighter because they share.
 
-#### Letter to Evelyn
-![Letter Evelyn][Letter Evelyn]
+All who meet her, however brief
+Are struck by her gracious manners
+And her sweet nature; for even in grief,
+He lovely smile is like a banner.
 
----
+Though her health be frail, her spirit is great
+So much of her life she has suffered ills
+But remains still resigned to her fate
+For she knows we don’t live by our own wills.
 
-#### Letter to Kenny
-(TODO: Stitch images together)
+We have lessons to learn
+In good times and sad
+And fortunes we earn
+Are not always bad.
 
-![Letter to Kenny 1][Letter to Kenny 1]
-![Letter to Kenny 2][Letter to Kenny 2]
-![Letter to Kenny 3][Letter to Kenny 3]
-![Letter to Kenny 4][Letter to Kenny 4]
+We feel lonesome as a dove,
+Love surrounds us if we look.
+We look within, below and above
+And some find comfort in a book.
 
----
+Often our minds turn the pages
+When we look backward on our life,
+And as we review all our ages
+We tend to remember only the strife.
 
-#### Tribute to Chippy
-![Tribute to Chippie 1][Tribute to Chippie 1]
-![Tribute to Chippie 2][Tribute to Chippie 2]
-![Tribute to Chippie 3][Tribute to Chippie 3]
+But if we ask, “Oh, lord, why must it be me?”
+We need to also ask HIM the question, “How?”
+“How in our woes can we find THEREE?”
+For we want to know in the here and now.
 
----
+“How can we stand this trouble and woe?”
+There were good times; we remember the bad.
+Then a quiet voice within us lets us know
+He is always with us to make us glad.
 
-#### The Big Event
-![The Big Event][The Big Event]
+So, we must weather ever storm
+That this life throws our way.
+But we can always feel cherished and warm
+Knowing HE is just a prayer away.
 
----
+<center><h4><u>Dear Maggie, Get Well</u></h4></center>
+This poem’s for Maggie – our sister we love,
+Whose heart is good – and pure as a dove.
+So many nice things for us she has done,
+And always made family seem like such fun.
 
-#### Tribute to Ruby
-![Tribute to Ruby 2][Tribute to Ruby 2]
-![Tribute to Ruby 3][Tribute to Ruby 3]
-![Tribute to Ruby 4][Tribute to Ruby 4]
+She gives much of herself – too much, we’re sure,
+But her efforts seem endless and her motives pure.
 
----
+She cares for others with diligent might
+And neglects herself, which doesn’t seem right.
 
-#### Tribute to Mimi
-![Tribute to Mimi][Tribute to Mimi]
+We hope that now for herself she’ll care
+Any other course wouldn’t be fair.
+The reason to us is clear as a bell
+For we truly love and want her well.
 
----
+Our apologies to the family poet laureate – Maggie.
 
-#### Tribute to Olive
-![Tribute to Olive 1][Tribute to Olive 1]
-![Tribute to Olive 2][Tribute to Olive 2]
-![Tribute to Olive 3][Tribute to Olive 3]
-![Tribute to Olive 4][Tribute to Olive 4]
-
----
-
-#### About Sister Maggie
-![About Sister Maggie 1][About Sister Maggie 1]
-![About Sister Maggie 2][About Sister Maggie 2]
-
----
-
-#### Happy Birthday Maggie
-![Happy Birthday Maggie 1][Happy Birthday Maggie 1]
-![Happy Birthday Maggie 2][Happy Birthday Maggie 2]
-![Happy Birthday Maggie 3][Happy Birthday Maggie 3]
-
----
-
-#### Get Well Maggie
-![Get Well Maggie 2][Get Well Maggie 2]
-![Get Well Maggie 3][Get Well Maggie 3]
-![Get Well Maggie 1][Get Well Maggie 1]
+--Jewell Hodges
 
 
-[Letter Mom 1]: ../media/05-2019-Letter-Mom/Letter%20Mom_0001.jpg
-[Letter Mom 2]: ../media/05-2019-Letter-Mom/Letter%20Mom_0002.jpg
-[Letter Evelyn]: ../media/05-2019-Letter-Evelyn/Letter%20Evelyn.jpg
-[Letter to Kenny 1]: ../media/05-2019-Letter-Kenny/Letter%20Kenny_0001.jpg
-[Letter to Kenny 2]: ../media/05-2019-Letter-Kenny/Letter%20Kenny_0002.jpg
-[Letter to Kenny 3]: ../media/05-2019-Letter-Kenny/Letter%20Kenny_0003.jpg
-[Letter to Kenny 4]: ../media/05-2019-Letter-Kenny/Letter%20Kenny_0004.jpg
-[Tribute to Chippie 1]: ../media/05-2019-Tribute-Chippy/Tribute%20Chippy_0001.jpg
-[Tribute to Chippie 2]: ../media/05-2019-Tribute-Chippy/Tribute%20Chippy_0002.jpg
-[Tribute to Chippie 3]: ../media/05-2019-Tribute-Chippy/Tribute%20Chippy_0003.jpg
-[The Big Event]: ../media/05-2019-The-Big-Event/The%20Big%20Event.jpg
-[Tribute to Ruby 1]: ../media/05-2019-Tribute-Ruby/Tribute%20Ruby_0001.jpg
-[Tribute to Ruby 2]: ../media/05-2019-Tribute-Ruby/Tribute%20Ruby_0002.jpg
-[Tribute to Ruby 3]: ../media/05-2019-Tribute-Ruby/Tribute%20Ruby_0003.jpg
-[Tribute to Ruby 4]: ../media/05-2019-Tribute-Ruby/Tribute%20Ruby_0004.jpg
-[Tribute to Mimi]: ../media/05-2019-Tribute-Mimi/Tribute%20Mimi.jpg
-[Tribute to Olive 1]: ../media/05-2019-Tribute-Olive/Tribute%20Olive_0001.jpg
-[Tribute to Olive 2]: ../media/05-2019-Tribute-Olive/Tribute%20Olive_0002.jpg
-[Tribute to Olive 3]: ../media/05-2019-Tribute-Olive/Tribute%20Olive_0003.jpg
-[Tribute to Olive 4]: ../media/05-2019-Tribute-Olive/Tribute%20Olive_0004.jpg
-[About Sister Maggie 1]: ../media/05-2019-About-Sister-Maggie/About%20Sister%20Maggie_0001.jpg
-[About Sister Maggie 2]: ../media/05-2019-About-Sister-Maggie/About%20Sister%20Maggie_0002.jpg
-[Happy Birthday Maggie 1]: ../media/05-2019-Happy-Birthday-Maggie/Happy%20Birthday%20Maggie_0001.jpg
-[Happy Birthday Maggie 2]: ../media/05-2019-Happy-Birthday-Maggie/Happy%20Birthday%20Maggie_0002.jpg
-[Happy Birthday Maggie 3]: ../media/05-2019-Happy-Birthday-Maggie/Happy%20Birthday%20Maggie_0003.jpg
-[Get Well Maggie 1]: ../media/05-2019-Get-Well-Maggie/Get%20Well%20Maggie_0001.jpg
-[Get Well Maggie 2]: ../media/05-2019-Get-Well-Maggie/Get%20Well%20Maggie_0002.jpg
-[Get Well Maggie 3]: ../media/05-2019-Get-Well-Maggie/Get%20Well%20Maggie_0003.jpg
+<center><h4><u>To Nannan On Her 84th Birthday</u></h4></center>
+Today is a great day, a celebration. Eighty-four years ago, a little baby girl was born to John and Amanda Toliver. Her name is Maggie Ethel Toliver Allbright, my grandmother!
+
+I wonder if John and Amanda Toliver knew what kind of sunshine and love she would bring into everyone’s lives. She knows no enemy and never meets a stranger; everyone is her friend.
+
+She is our Nannan, a lady who has given her whole life to her family.
+
+It is hard to put in words what you mean to me. You told me one time that you always wanted to be the best grandmother, because you never knew your grandmother. Well, Nannan, you have been the best grandmother and you continue to be the best.
+
+When I was young, I used to cry to go home with you, and still today if I go a week without seeing you, I feel a void in my heart.
+
+Life has changed so much for all of us through the years, but one thing remains the same for all of us is our family.
+
+You have been our solid rock. You are always there when we need you and always ready to listen. Your health has not been well through the years and some say they are surprised yo7u are still here with us. But not me! Because I know that God knows we all need you so much and your work is not done yet.
+
+Someone said to me one time, “You act just like Nannan~.” I find that the ultimate compliment. You are a great role model. I hope I will be a wonderful grandmother just like you. I thank God for you, Nannan. I love you and happy birthday.
+
+--Mimi Marshall Terrell
+March 11, 1995

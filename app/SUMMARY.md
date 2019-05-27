@@ -9,13 +9,12 @@
 * [Introduction](chapters/Introduction.md)
 * [Index](chapters/Index.md)
 * [Faith, Family and Friends](chapters/Faith-Family-and-Friends.md)
-* [Tributes and Memories](chapters/Tributes-and-memories.md)
+* [Memories in Short Essays](chapters/Memories-in-Short-Essays.md)
+* [Tributes and Well Wishes](chapters/Tributes-and-memories.md)
 * [Inspiration and Reflection](chapters/Inspiration-and-reflection.md)
-* [Making a Memory](chapters/Making-a-memory.md)
+* [Appendix A: Making a Memory](chapters/Making-a-memory.md)
+* [Appendix B: Raw Scans of Documents](chapters/Raw-Scans-of-Documents.md)
 * [Back Cover](chapters/Back-Cover.md)
 
 ---
 ---
-
-TODO: Remove this links
-* [Markdown Demonstration (for editors of this book ;)](chapters/Markdown-Demonstration.md)
