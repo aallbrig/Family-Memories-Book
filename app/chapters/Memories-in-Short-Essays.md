@@ -1,13 +1,18 @@
 <center><h1>Memories in Short Essays</h1></center>
 
 <center><h4><u>Anecdote: The Mask</u></h4></center>
+
 The choir at a United Methodist church was in practice near Halloween time. A little four-year-old grandson of a member of the was having fun running up and down the aisles of the church with a Halloween mask on.
+
 Finally, his grandmother reproached him. “Luke, Jesus would not like for you to run in His Church.”
+
 “But grandmother,” Luke says, “Jesus does not know who I am with this mask on.”
 
 <center><h4><u>An Autumn Afternoon</u></h4></center>
-<center><h4>With</h4></center>
-<center><h4>Mrs. William Dexter Allbright (Mary Ann Smith)</h4></center>
+<center>With</center>
+<center>Mrs. William Dexter Allbright (Mary Ann Smith)</center>
+
+<br/>
 
 Note:   The following article has been written, not only out of love and admiration for Mrs. Allbright, but in search of some answers pertaining to all of us to the longevity of too few of our lives.  She will turn 101 November 29, 1983.  In this nuclear, polluted environmental age, one cannot help but ponder the reasons why there are those persons who survive cancer, heart disease, mental and physical breakdown plus other numerous ailments.  Mrs. Allbright appears to have survived them all.  With so much emphasis on aerobics, vitamins, cholesterol, polysaturates, additives, etc., it is confusing to think that this lady probably does not know the meaning of such words.  In no way do we advocate that, in our society, we must not be aware of the importance of their meaning because the manner in which most of us live today is radically different from hers; it is that difference that deserves some exploration.
 
@@ -19,36 +24,55 @@ She is up every morning, dressed when she comes to the table to eat breakfast wi
 
 She was born to Isaac Harrison and Amanda Nugent Smith near Huron.  She is the last surviving member of her family which included brothers, Edward and Charles and sisters, Nelia and Aminda.  Mr. Allbright has one surviving brother, Orville, whose farm adjoins Mrs. Allbright’s.  Her life has revolved around her five children, Elmer, who dies this summer, Lucille Summers, Homer, Kenneth, and Wilma Ray.  The dedication that Kenneth and Margie have for his is incomprehensible.  This dedication expresses itself everywhere around the farm.  To go there, one feels as cleansed and refreshed as a spring rain.  Come spend this afternoon with us now.
 
+<br/>
+
 Dear Mom,
 
 You have accomplished on this day something that is very rare.  To reach one hundred one years and be a lovely and alert as you are, is, indeed, a blessing from God.
+
 To look back on the years that I have been in the family (over 50) has been a pleasure, and much of it has been because of you.  Know that in all the things I did and many people that I have associated with, if there are disappointments, there’s always Mom at home to look to.  You were always there.
+
 I remember the Sundays and other days that we spent with you, the tasty dinners that you would cook and the cheerful attitude that you had in serving them.  I remember that wonderful homemade cottage cheese that you had, and the good time that you had attending and milking the cows.  Your green beans were always better than anyone else’s.  The jellies that you made and always generous to share will never be forgotten.  The rows of fruits and vegetables that you preserved in the summer were your pride and joy.  It was a reward of your labor, and rightfully so.
+
 I remember many things about you Mom.  I know that you say that you wish you could do more now, but just remember that you are doing a lot by just being here with us.
+
 We are thankful for Kenny and Margie and for the care that they give to you.  You are lucky to have them.
+
 I am praying every day for changes in making things more pleasant for you.  If I have been the cause of any dissention, I am sorry.  With a change of attitudes and God’s help I am sure things will be better.  We do not want you to worry about that.
 
 --Maggie Toliver Allbright
 
 <center><h4><u>James Frederick Summers</u></h4></center>
-<br/>
-<center><h4>March 1, 1900 – 1977</h4></center>
+<center>March 1, 1900 – 1977</center>
 
 James Frederick Summers, known by family, friends and acquaintances as Chip, Chippy or Che Che, was born in Martin County, March 1, 1900.  He was one of eight children born to Effie Pruett and Richard Summers.
+
 Last Tuesday, March 1, 1977, marked his 77th birthday.  Or God saw fit to let him remain with his loved ones eight more glorious days, allowing him to return from Bloomington hospital for one more visit.
+
 The harsh, bitterly cold winter of 1977 will go down in history for its hardships, inconveniences and devastation.  Yes, it took its toll and is still making demands.  It will live in the hearts of Lucille (Chippy would want us to call her “Ceal”), his daughter, Margie, and his grandson Gary as the year PaPaw left them behind.
+
 Found amid the losses of 1977 are many treasured souvenirs Ceal shares with us.  Hours, days and weeks of the two of them literally snowbound in their home on Prospect Hill overlooking Springs Valley.  So near to the main road – yet so far – as their driveway, their car and their home were enveloped by mountains of snow.  Food and mail were delivered on foot.
+
 Thank God for that snow!  Ceal and Chip shared a last togetherness too often never experienced by husband and wife during a lifetime in the hectic mode of life of our present generation.
+
 What kind of man was James Frederick Summers?  Each of us form various impressions of others.  Those who knew him best agree he loved and lived in every sense of the meaning of loving and living.
+
 In a large city some of Chip’s so-called escapades would go by unnoticed.  In a small town like Shoals, they were sometimes sensational.  In his younger days, he was probably known as “wild.”  Our older generation knows the definition of that word.  By today’s standards where terrorists, rapists, murderers, and dope-pushers reign, one would barely label a person like Chippy “wild.”
+
 He enjoyed an all-night poker game at one of the local saloons with “the boys.”  He liked a drink of good whiskey, sometimes a little more than his share.  He loved to dance and could really step off of fancy jig.  He was a square-dance “caller” and a terrific one.  He enjoyed baseball, serving as an umpire at local games.  Baseball remained his favorite sport.  He knew good-looking clothes and was quite a dapper gentlemen-about-tow, having a keen eye for the pretty girls.  He finally found one and kept her by his side ever after.  A serious man, too, with more than his share of ability and knowledge.
+
 People of Shoals will associate Chippy with the Pearl Button Factory.  One of its kind and a science that doesn’t exist any ore.
+
 He will be remembered for his kindness to others, his laughter, his keen sense of humor, his hospitality when someone came to his home, but most of all for his extreme generosity.
+
 Chippy did not acquire an abundance of material wealth.  He gave most of everything away willingly and happily.  If friends or family needed anything and Chip could lend a helping hand, he was always there.
+
 He will be sadly missed.  Time will not heal the wounds but it will make them easier to bear.
+
 He is survived not only by his wife Ceal, his daughter Margie, and his grandson Gary, but two brothers, Richard Edmund (Eddie) and Aaron Thomas, one sister, Agnes Leona Allegree, and by a multitude of nieces, nephews and relatives who will never forget “Chip.”
 
 <center><h4><u>Autumn Visit</u></h4></center>
+
 It was one of those brilliant, blue-skied Indiana afternoons in October, Round the last curve on the road that takes us “home,” the panoramic vista of a farm nestled among oaks, maples, walnuts and hills extends a greeting of immense pride.  Nothing seems to lack attention from the newly painted white trim on the old red bard, to the fence rows standing ever so erectly, to the white house gleaming on an immaculately manicured lawn, one will find no litter or clutter here.  Even the antiquated store building, once a scene of bustling activity, emerges ever so proudly reminding us of a bygone era of horses, buggies, Model T’s and the many customers who traded their wares at this “general store.”
 
 Wasn’t it only yesterday when we were last home to visit that new green corn stalks were pushing their way from the ground bespeaking of a bountiful harvest to be reaped?  These once green stalks lay withered and dried on the ground now, prematurely aged from the onslaught of the summer drought.  Some corn has been salvaged, we could see the ears and the silks poking out of the crib slats.

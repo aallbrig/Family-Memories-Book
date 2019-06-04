@@ -1,77 +1,147 @@
 <center><h1>TRIBUTES AND WELL WISHES</h1></center>
 
 <center><h4><u>To My Sister, Maggie</u></h4></center>
+
 Maggie has devoted herself as a wife
+
 And now has children in her life.
 
+<br/>
+
 She’s weathered many heartaches
+
 There were so hard to bear
+
 But all her family try to make
+
 Her griefs lighter because they share.
 
+<br/>
+
 All who meet her, however brief
+
 Are struck by her gracious manners
+
 And her sweet nature; for even in grief,
+
 He lovely smile is like a banner.
 
+<br/>
+
 Though her health be frail, her spirit is great
+
 So much of her life she has suffered ills
+
 But remains still resigned to her fate
+
 For she knows we don’t live by our own wills.
 
+<br/>
+
 We have lessons to learn
+
 In good times and sad
+
 And fortunes we earn
+
 Are not always bad.
 
+<br/>
+
 We feel lonesome as a dove,
+
 Love surrounds us if we look.
+
 We look within, below and above
+
 And some find comfort in a book.
 
+<br/>
+
 Often our minds turn the pages
+
 When we look backward on our life,
+
 And as we review all our ages
+
 We tend to remember only the strife.
 
+<br/>
+
 But if we ask, “Oh, lord, why must it be me?”
+
 We need to also ask HIM the question, “How?”
+
 “How in our woes can we find THEREE?”
+
 For we want to know in the here and now.
 
+<br/>
+
 “How can we stand this trouble and woe?”
+
 There were good times; we remember the bad.
+
 Then a quiet voice within us lets us know
+
 He is always with us to make us glad.
 
+<br/>
+
 So, we must weather ever storm
+
 That this life throws our way.
+
 But we can always feel cherished and warm
+
 Knowing HE is just a prayer away.
 
+<br/>
+
 <center><h4><u>Dear Maggie, Get Well</u></h4></center>
+
 This poem’s for Maggie – our sister we love,
+
 Whose heart is good – and pure as a dove.
+
 So many nice things for us she has done,
+
 And always made family seem like such fun.
 
+<br/>
+
 She gives much of herself – too much, we’re sure,
+
 But her efforts seem endless and her motives pure.
 
+<br/>
+
 She cares for others with diligent might
+
 And neglects herself, which doesn’t seem right.
 
+<br/>
+
 We hope that now for herself she’ll care
+
 Any other course wouldn’t be fair.
+
 The reason to us is clear as a bell
+
 For we truly love and want her well.
+
+<br/>
 
 Our apologies to the family poet laureate – Maggie.
 
+<br/>
+
 --Jewell Hodges
 
+<br/>
 
 <center><h4><u>To Nannan On Her 84th Birthday</u></h4></center>
+
 Today is a great day, a celebration. Eighty-four years ago, a little baby girl was born to John and Amanda Toliver. Her name is Maggie Ethel Toliver Allbright, my grandmother!
 
 I wonder if John and Amanda Toliver knew what kind of sunshine and love she would bring into everyone’s lives. She knows no enemy and never meets a stranger; everyone is her friend.
@@ -89,4 +159,5 @@ You have been our solid rock. You are always there when we need you and always r
 Someone said to me one time, “You act just like Nannan~.” I find that the ultimate compliment. You are a great role model. I hope I will be a wonderful grandmother just like you. I thank God for you, Nannan. I love you and happy birthday.
 
 --Mimi Marshall Terrell
+
 March 11, 1995
