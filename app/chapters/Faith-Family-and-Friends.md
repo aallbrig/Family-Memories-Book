@@ -1165,6 +1165,56 @@ Our hearts are light and we have the feel
 Of never having to wonder at chances.
 
 
+<center><h4><u>Brenda</u></h4></h2></center>
+
+My heart twined with yours when you were fourteen.
+
+To lose your Mother was more than my heart could retain.
+
+You were such a sweet and brave girl, I thought,
+
+because you nobly carried on your duties as you sought.
+
+I did not know until later, you were to become part of our family tree.
+
+We became fast friends for real, then and there.
+
+My son, Jerry, was a happy man, indeed.
+
+Four grandsons were the result of this union
+
+and they have been so dear in my dominion.
+
+I enjoyed the little baby-sitting that I did do,
+
+And they time we were asked to eat with you.
+
+Thanksgiving was our time to be together.
+
+No other time, with your good food and company, could have been better
+
+to give thanks for all the love we had for each other.
+
+Unfortunate circumstances did come to pass
+
+but our compassion for one another did last.
+
+Now, we have the boys, their spouses and little ones
+
+and I thank God for them and their loyal friendships.
+
+To the end of my life, Brenda, which is pending,
+
+you will always be in my heart with warm feelings.
+
+I wish for you all the ultimate and peace and
+
+love to one who gives so much.
+
+
+Love,
+
+Maggie, 1994.
 
 
 <center><h4><u>Mimi</u></h4></h2></center>
