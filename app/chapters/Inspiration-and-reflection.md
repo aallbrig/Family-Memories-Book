@@ -1,54 +1,42 @@
-<center><h1>INSPIRATION AND REFLECTION</h1></center>
+<style>
+    .center-text {
+        text-align: center;
+    }
+    .preformatted {
+        white-space: pre-wrap;
+    }
+</style>
 
-<center><h4><u>Today</u></h4></center>
+<h1 class="center-text">INSPIRATION AND REFLECTION</h1>
 
+<h4 class="center-text"><u>Today</u></h4>
+<div class="preformatted">
 Mend a quarrel.
-
 Search out a forgotten friend.
-
 Dismiss suspicion and replace it with trust.
-
 Write a love letter.
-
 Share some treasure.
-
 Give a soft answer.
-
 Encourage youth.
-
 Manifest your loyalty in word or deed.
-
 Keep a promise.
-
 Find the time.
-
 Forego a grudge.
-
 Forgive an enemy.
-
 Listen.
-
 Apologize if you were wrong.
-
 Try to understand.
 
-<br/>
-
 --By Anonymous
+</div>
 
-<br/>
-
-<center><h4><u>Hug Therapy</u></h4></center>
-
+<h4 class="center-text"><u>Hug Therapy</u></h4>
+<div class="preformatted">
 The theory is that touch is not only nice. It's needed! Scientific research supports the theory that stimulation by touch is absolutely necessary for our physical as well as our emotional well-being.
-
-<br/>
 
 Therapeutic touch, recognized as an essential tool for healing, is now part of nurses' training in several large medical centers. Touch is used to help relieve pain and depression and anxiety, to bolster a patient's will to live, and to help premature babies who have been deprived of touch in their incubator to grow and thrive.
 
 Results of Scientific Experiments
-
-<br/>
 
 Various experiments have shown that touch can:
 
@@ -122,72 +110,46 @@ Even More Benefits from Hugging
 
 (Note: This clipping was found among Maggie’s things. It is unsigned, but is likely the work of therapist Kathleen Keating of Canada who wrote the book, “Hug Therapy,” in 1983.)
 
-<br/>
+</div>
 
-<h4><u>Dag Hammarskjold’s Prayer</u></h4>
-
+<h4 class="center-text"><u>Dag Hammarskjold’s Prayer</u></h4>
+<div class="preformatted">
 Give us a pure heart that we may see thee,
-
 A humble heart that we may hear thee,
-
 A heart of love that we may serve thee,
-
 And a heart of faith that we may love thee.
+</div>
 
-<br/>
-
-<center><h4><u>Leisure</u></h4></center>
-
+<h4 class="center-text"><u>Leisure</u></h4>
+<div class="preformatted">
 I shall attend to my little errands of love
-
 Early, this year,
-
 So that the brief days before Christmas may be
-
 Unhampered and clear
-
 Of the fever of hurry.
-
 The breathless rushing that I have known in the past
-
 Shall not possess me.
-
 I shall be calm in my soul
-
 And ready at last
-
 For Christmas: "The Mass of the Christ."
-
 I shall kneel and call out His name;
-
 I shall take time to watch the beautiful light
-
 Of a candle's flame;
-
 I shall have leisure-I shall go out alone
-
 From my roof and my door;
-
 I shall not miss the silver silence of stars
-
 As I have before;
-
 And, oh, perhaps-If I stand there very still,
-
 And very long-
-
 I shall hear what the clamor of living has kept from me:
-
 The Angel's song!
 
-<br/>
 
 --Grace Noll Crowell (1877-1969)
+</div>
 
-<br/>
-
-<center><h4><u>Psalms to Pray When…</u></h4></center>
-
+<h4 class="center-text"><u>Psalms to Pray When…</u></h4>
+<div class="preformatted">
 You can’t sleep – Psalm 4
 
 You’re feeling guilty – Psalm 51: 1-7
@@ -209,3 +171,4 @@ You feel spiritually dry– Psalm 63: 1-8
 A friend has wronged you– Psalm 55 12-14
 
 You are thankful – Psalm 136
+</div>

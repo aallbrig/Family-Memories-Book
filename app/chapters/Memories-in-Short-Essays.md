@@ -1,6 +1,15 @@
-<center><h1>Memories in Short Essays</h1></center>
+<style>
+    .center-text {
+        text-align: center;
+    }
+    .preformatted {
+        white-space: pre-wrap;
+    }
+</style>
 
-<center><h4><u>Anecdote: The Mask</u></h4></center>
+<h1 class="center-text">Memories in Short Essays</h1>
+
+<h4 class="center-text"><u>Anecdote: The Mask</u></h4>
 
 The choir at a United Methodist church was in practice near Halloween time. A little four-year-old grandson of a member of the was having fun running up and down the aisles of the church with a Halloween mask on.
 
@@ -8,11 +17,10 @@ Finally, his grandmother reproached him. “Luke, Jesus would not like for you t
 
 “But grandmother,” Luke says, “Jesus does not know who I am with this mask on.”
 
-<center><h4><u>An Autumn Afternoon</u></h4></center>
-<center>With</center>
-<center>Mrs. William Dexter Allbright (Mary Ann Smith)</center>
-
-<br/>
+<h4 class="center-text"><u>An Autumn Afternoon</u></h4>
+<div class="center-text">With</div>
+<div class="center-text">Mrs. William Dexter Allbright (Mary Ann Smith)</div>
+<div class="preformatted">
 
 Note:   The following article has been written, not only out of love and admiration for Mrs. Allbright, but in search of some answers pertaining to all of us to the longevity of too few of our lives.  She will turn 101 November 29, 1983.  In this nuclear, polluted environmental age, one cannot help but ponder the reasons why there are those persons who survive cancer, heart disease, mental and physical breakdown plus other numerous ailments.  Mrs. Allbright appears to have survived them all.  With so much emphasis on aerobics, vitamins, cholesterol, polysaturates, additives, etc., it is confusing to think that this lady probably does not know the meaning of such words.  In no way do we advocate that, in our society, we must not be aware of the importance of their meaning because the manner in which most of us live today is radically different from hers; it is that difference that deserves some exploration.
 
@@ -24,7 +32,6 @@ She is up every morning, dressed when she comes to the table to eat breakfast wi
 
 She was born to Isaac Harrison and Amanda Nugent Smith near Huron.  She is the last surviving member of her family which included brothers, Edward and Charles and sisters, Nelia and Aminda.  Mr. Allbright has one surviving brother, Orville, whose farm adjoins Mrs. Allbright’s.  Her life has revolved around her five children, Elmer, who dies this summer, Lucille Summers, Homer, Kenneth, and Wilma Ray.  The dedication that Kenneth and Margie have for his is incomprehensible.  This dedication expresses itself everywhere around the farm.  To go there, one feels as cleansed and refreshed as a spring rain.  Come spend this afternoon with us now.
 
-<br/>
 
 Dear Mom,
 
@@ -41,10 +48,11 @@ We are thankful for Kenny and Margie and for the care that they give to you.  Yo
 I am praying every day for changes in making things more pleasant for you.  If I have been the cause of any dissention, I am sorry.  With a change of attitudes and God’s help I am sure things will be better.  We do not want you to worry about that.
 
 --Maggie Toliver Allbright
+</div>
 
-<center><h4><u>James Frederick Summers</u></h4></center>
-<center>March 1, 1900 – 1977</center>
-
+<h4 class="center-text"><u>James Frederick Summers</u></h4>
+<div class="center-text">March 1, 1900 – 1977</div>
+<div class="preformatted">
 James Frederick Summers, known by family, friends and acquaintances as Chip, Chippy or Che Che, was born in Martin County, March 1, 1900.  He was one of eight children born to Effie Pruett and Richard Summers.
 
 Last Tuesday, March 1, 1977, marked his 77th birthday.  Or God saw fit to let him remain with his loved ones eight more glorious days, allowing him to return from Bloomington hospital for one more visit.
@@ -70,9 +78,10 @@ Chippy did not acquire an abundance of material wealth.  He gave most of everyth
 He will be sadly missed.  Time will not heal the wounds but it will make them easier to bear.
 
 He is survived not only by his wife Ceal, his daughter Margie, and his grandson Gary, but two brothers, Richard Edmund (Eddie) and Aaron Thomas, one sister, Agnes Leona Allegree, and by a multitude of nieces, nephews and relatives who will never forget “Chip.”
+</div>
 
-<center><h4><u>Autumn Visit</u></h4></center>
-
+<h4 class="center-text"><u>Autumn Visit</u></h4>
+<div class="preformatted">
 It was one of those brilliant, blue-skied Indiana afternoons in October, Round the last curve on the road that takes us “home,” the panoramic vista of a farm nestled among oaks, maples, walnuts and hills extends a greeting of immense pride.  Nothing seems to lack attention from the newly painted white trim on the old red bard, to the fence rows standing ever so erectly, to the white house gleaming on an immaculately manicured lawn, one will find no litter or clutter here.  Even the antiquated store building, once a scene of bustling activity, emerges ever so proudly reminding us of a bygone era of horses, buggies, Model T’s and the many customers who traded their wares at this “general store.”
 
 Wasn’t it only yesterday when we were last home to visit that new green corn stalks were pushing their way from the ground bespeaking of a bountiful harvest to be reaped?  These once green stalks lay withered and dried on the ground now, prematurely aged from the onslaught of the summer drought.  Some corn has been salvaged, we could see the ears and the silks poking out of the crib slats.
@@ -106,3 +115,4 @@ Does she believe in life after death?  She has no comment to make on this.  When
 We dare to look at each other, Donna and I.  Down our faces, tears are streaming.  Mom can’t see us.  She wouldn’t want us to cry over something she said.  We are mesmerized by this woman and we feel the aura of grandeur about her.  From what source does this wisdom and this well of life flow?  Without seeing eyes, she envisions all the wonders and beauty of life in her heart.  Faith lives on within her – unyielding.  Is this the answer?
 
 (Autumn Visit was with Wilma Ray and Donna Allbright Allen, grand-daughter, Oct.11, ’83)
+</div>
