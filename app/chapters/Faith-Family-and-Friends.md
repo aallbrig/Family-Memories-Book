@@ -43,7 +43,7 @@ We always looked forward to its delicious pudding yield
 In the old garden spot and orchard, pears grew abundantly
 And blackberry corps were scattered all over the farm
 
-Home loved to go there to plow and plant
+Homer loved to go there to plow and plant
 It gave him so much pleasure that we had to call
 “The Farm” a place of wonder
 Cattle grazing over the hill were a sight to see
@@ -119,7 +119,7 @@ In addition, in subtraction, in multiplication and many other kinds.
 
 We had spelling in the one-room school and did learn
 To spell well, as it was the teacher’s great concern.
-There were spelling bees I which we all were put to test
+There were spelling bees in which we all were put to test
 And sometimes a good speller got to complete in county contests.
 
 Each pupil got their turn at reading
@@ -195,7 +195,7 @@ She was tall and erect and very sure
 That she could subdue us and that she did secure.
 We teased her and watched her from afar
 As the young men of the neighborhood courted her.
-She must have liked the pattern of our five
+She must have liked the pattern of our giving
 Because she chose a husband from among our living.
 Her will was strong, as it did ring
 The day she made Clarence and Jesse
@@ -206,12 +206,12 @@ When she would have him in holy wedlock bliss.
 
 Our fifth year brought us another Powell,
 Effie came riding down the road on her horse, Pal.
-She was kind and good and always steady
+She was kind and good and always ready
 To try to please us and keep us steady.
 But, oh, how we did try her!
 Two hours at recess would beg her to say
 To go to the Valley of Diamonds to play.
-Here nerves were put keenly on edge
+Her nerves were put keenly on edge
 When many tricked were played over her head.
 Such ones as when Clarence knocked the wash pan on the floor,
 Or when we would run from her and close the door.
@@ -311,7 +311,7 @@ A young man from Detroit, Lou Tandy, was the reason to roam.
 
 There were many plans to be made and much preparation
 For everyone was involved in this big, wonderful occasion.
-Our closes relation, of course, the Giles’, were to be there
+Our closest relation, of course, the Giles’, were to be there
 As well as our near neighbors who attended all our affairs.
 The Bonds Methodist preacher was notified, Bro. Ham was his name
 The scene for the wedding under a spreading oak tree the game.
@@ -335,7 +335,7 @@ But dusk had set in and the preacher could not see.
 The old kerosene lantern was hunted and put into use
 Now all ends were taken care of that seemed to be loose.
 Mrs. Chansler held the lantern while the ceremony was read
-With awe, we all stood as the couple was web.
+With awe, we all stood as the couple was wed.
 
 The long table which was near the huge oak tree
 Was spread with the delicious foods for all to see.
@@ -456,7 +456,7 @@ Retirement years were not for her, and the handicapped now gets her time
 To attain a better life for them while here and encouragement in their prime.
 
 Ruby’s own family has added much to her enjoyment and fulfillment of the soul.
-Her one child, Margret, five grandchildren, and eight great-grandchildren is her glory to behold.
+Her one child, Margret, five grandchildren, and eight great-grandchildren are her glory to behold.
 Her home is always open to each and every one, and there will have find
 Good food including hot rolls, meats, salads, vegetables and fruit of ever kind.
 And she greets you with such warmth, as in her nature

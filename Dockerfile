@@ -1,14 +1,17 @@
 FROM node:10.15.1
 
 ARG BUILD_DIR=/docs
+ARG BOOK_BUILD_DIR=/book
 ENV BUILD_DIR $BUILD_DIR
+ENV BOOK_BUILD_DIR $BOOK_BUILD_DIR
 
 RUN mkdir -p /app
 RUN mkdir -p $BUILD_DIR
+RUN mkdir -p $BOOK_BUILD_DIR
 
 WORKDIR /app
 
-COPY ./app/package-lock.json ./app/package.json /app/
+COPY ./app/package*.json /app/
 
 RUN npm i
 ENV PATH="./node_modules/.bin:${PATH}"

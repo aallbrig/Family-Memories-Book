@@ -40,6 +40,7 @@
       -p 35729:35729 \
       -v $PWD/app:/app \
       -v $PWD/docs:/docs \
+      -v $PWD/book:/book \
       --entrypoint /bin/bash \
       family-memories-book
     ```

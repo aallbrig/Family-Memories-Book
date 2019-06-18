@@ -1,0 +1,26 @@
+{
+  "name": "family-memories-book",
+  "version": "0.0.1",
+  "description": "Family memories book",
+  "main": "package.json",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "docker-build": "docker build . -t family-memories-book",
+    "postdocker-build": "id=$(docker create family-memories-book) && docker cp $id:/app/node_modules app/ && docker rm -v $id",
+    "docker-run": "docker run --rm -p 4000:4000 family-memories-book",
+    "gitbook-build": "docker run -it --rm -v $PWD/app:/app -v $PWD/docs:/docs family-memories-book run build",
+    "gitbook-develop": "docker run -it --rm -p 4000:4000 -p 35729:35729 -v $PWD/app:/app -v $PWD/docs:/docs -v $PWD/book:/book --entrypoint /bin/bash family-memories-book"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aallbrig/Family-Memories-Book.git"
+  },
+  "author": "Andrew Allbright",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aallbrig/Family-Memories-Book/issues"
+  },
+  "homepage": "https://github.com/aallbrig/Family-Memories-Book#readme"
+}

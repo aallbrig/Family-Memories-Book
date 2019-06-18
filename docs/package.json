@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "start": "gitbook serve",
-    "build": "gitbook build . $BUILD_DIR"
+    "build": "gitbook build . $BUILD_DIR",
+    "build-book": "gitbook build . $BOOK_BUILD_DIR --format ebook"
   },
   "author": "Andrew Allbright",
   "license": "ISC",

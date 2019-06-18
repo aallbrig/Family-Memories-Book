@@ -99,7 +99,7 @@ Life has changed so much for all of us through the years, but one thing remains 
 
 You have been our solid rock. You are always there when we need you and always ready to listen. Your health has not been well through the years and some say they are surprised yo7u are still here with us. But not me! Because I know that God knows we all need you so much and your work is not done yet.
 
-Someone said to me one time, “You act just like Nannan~.” I find that the ultimate compliment. You are a great role model. I hope I will be a wonderful grandmother just like you. I thank God for you, Nannan. I love you and happy birthday.
+Someone said to me one time, “You act just like Nannan.” I find that the ultimate compliment. You are a great role model. I hope I will be a wonderful grandmother just like you. I thank God for you, Nannan. I love you and happy birthday.
 
 --Mimi Marshall Terrell
 March 11, 1995

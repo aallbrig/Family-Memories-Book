@@ -39,11 +39,8 @@ Therapeutic touch, recognized as an essential tool for healing, is now part of n
 Results of Scientific Experiments
 
 Various experiments have shown that touch can:
-
 - make us feel better about ourselves and our surroundings
-
 - have a positive effect in a child's development and IQ
-
 - cause measurable physiological changes in the touchers and the touched
 
 We are just beginning to understand the power of touch. While there are many forms of touching, we propose that hugging is a very special therapeutic touch that contributes in a major way to healing and health.
@@ -51,61 +48,34 @@ We are just beginning to understand the power of touch. While there are many for
 The Power of Hugging
 
 Hugging accomplishes many things that you may never have thought of. It ...
-
 - feels good
-
 - dispels loneliness
-
 - overcomes fear
-
 - opens doors to feelings
-
 - builds self-esteem (Wow! She actually wants to hug me!)
-
 - fosters altruism (I can't believe it but I actually want to hug that old son-of-a-gun)
-
 - slows down aging (huggers stay young longer)
-
 - helps curb appetite (we eat less when we are nourished by hugs and when our arms are busy wrapped around others)
-
 - More Good Things from Hugging
-
 - eases tension
-
 - fights insomnia
-
 - keeps arms and shoulder muscles in condition
-
 - provides stretching exercise if you are short
-
 - provides stooping exercise if you are tall
-
 - offers a wholesome alternative to promiscuity
-
 - offers a healthy, safe alternative to alcohol and other drug abuse (better hugs than drugs!)
-
 - affirms physical being
-
 - is democratic (anyone is eligible for a hug)
 
 Even More Benefits from Hugging
-
 - is ecologically sound (it does not upset the environment)
-
 - is energy-efficient (saves heat)
-
 - is portable
-
 - requires no special equipment
-
 - demands no special setting (a fine place for a hug is any place from a doorstep to an executive conference room ... from a church parlor to a football field)
-
 - makes happy days happier
-
 - imparts feelings of belonging
-
 - fills up empty places in our lives
-
 - keeps on working to dispense benefits even after the hug is released
 
 (Note: This clipping was found among Maggie’s things. It is unsigned, but is likely the work of therapist Kathleen Keating of Canada who wrote the book, “Hug Therapy,” in 1983.)
