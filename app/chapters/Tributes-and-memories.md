@@ -46,7 +46,7 @@ We tend to remember only the strife.
 
 But if we ask, “Oh, lord, why must it be me?”
 We need to also ask HIM the question, “How?”
-“How in our woes can we find THEREE?”
+“How in our woes can we find THEE?”
 For we want to know in the here and now.
 
 “How can we stand this trouble and woe?”

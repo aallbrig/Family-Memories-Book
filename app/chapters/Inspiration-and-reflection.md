@@ -44,9 +44,10 @@ Various experiments have shown that touch can:
 - cause measurable physiological changes in the touchers and the touched
 
 We are just beginning to understand the power of touch. While there are many forms of touching, we propose that hugging is a very special therapeutic touch that contributes in a major way to healing and health.
+</div>
 
-The Power of Hugging
-
+<h4 class="center-text"><u>The Power of Hugging</u></h4>
+<div class="preformatted">
 Hugging accomplishes many things that you may never have thought of. It ...
 - feels good
 - dispels loneliness
@@ -118,27 +119,17 @@ The Angel's song!
 --Grace Noll Crowell (1877-1969)
 </div>
 
-<h4 class="center-text"><u>Psalms to Pray When…</u></h4>
+<h4 class="center-text"><u>Psalms to pray when…</u></h4>
 <div class="preformatted">
 You can’t sleep – Psalm 4
-
 You’re feeling guilty – Psalm 51: 1-7
-
 Life seems to have lost its luster – Psalm 8
-
 You are afraid – Psalm 18: 28-36
-
 Doubts overtake you– Psalm 19: 7-14
-
 You are ill – Psalm 41: 4-13
-
 You’ve suffered a loss– Psalm 73: 21-28
-
 A storm is raging – Psalm 29
-
 You feel spiritually dry– Psalm 63: 1-8
-
 A friend has wronged you– Psalm 55 12-14
-
 You are thankful – Psalm 136
 </div>

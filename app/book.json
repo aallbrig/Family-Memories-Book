@@ -1,3 +1,10 @@
 {
+  "author": "Christopher Allbright and Andrew Allbright",
+  "title": "[TODO] Title in Progress",
+  "description": "[TODO] Description in progress",
+  "pdf": {
+    "fontSize": 20,
+    "pageBreaksBefore": "true"
+  },
   "plugins": ["html5-video", "gist"]
 }

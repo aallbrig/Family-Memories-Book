@@ -9,6 +9,8 @@ RUN mkdir -p /app
 RUN mkdir -p $BUILD_DIR
 RUN mkdir -p $BOOK_BUILD_DIR
 
+RUN apt-get upgrade -y && apt-get update -y  && apt-get install calibre -y
+
 WORKDIR /app
 
 COPY ./app/package*.json /app/

@@ -13,7 +13,7 @@
 <div class="preformatted">
 “The Farm” was an integral part of our existence
 As we traveled forth on this life’s highway
-It was brought from my Dad and Mother
+It was bought from my Dad and Mother
 Who raised their large family there
 Weather at the old Home Place was always fair
 My Dad said no wind got in there to blow
@@ -83,7 +83,7 @@ December 1993
 
 Narrative:
 
-My dad, John Toliver, brought the original place of 200 acres in 1920. He bought from his sister, Nannie. The house was built by Nannie’s second husband, Albert Powell. Dad rented it from here back in 1911 until 1918. We had lived there before. He added the William Quackenbush place of 40 acres in 1930. It lies down the hill from the church and up the other hill; it has a beautiful spring on it. He had earlier added the John Gerkin place. It lies west of the place above the Moffatt land below.
+My dad, John Toliver, bought the original place of 200 acres in 1920. He bought the land from his sister, Nannie. The house was built by Nannie’s second husband, Albert Powell. Dad rented it from her back in 1911 until 1918. We had lived there before. He added the William Quackenbush place of 40 acres in 1930. It lies down the hill from the church and up the other hill; it has a beautiful spring on it. He had earlier added the John Gerkin place. It lies west of the place above the Moffatt land below.
 
 Homer and I bought Dad’s place in 1944. We, a little later, bought the Horace Chansler place on the road with the house on it. We also bought the Claude Chansler place; it didn’t have many acres, but it had a small house on it and a big spring. We spent many years roaming around those acres and enjoyed every minute of it.
 
@@ -95,7 +95,7 @@ Homer and I bought Dad’s place in 1944. We, a little later, bought the Horace 
 Readin’, writin’, and ‘rithmetic were the main tools
 That were used in the old one-room school.
 Not only did we know our own grade lessons
-But we learned from the first to eight grade transgressions.
+But we learned from the first to eighth grade transgressions.
 
 We also learned co-operation, as each pupil had a task
 Of hanging their coats on a peg of their size in the back.
@@ -265,8 +265,8 @@ To sit while we wrote to prove ourselves tooled
 Of going on to High School.
 
 Yes, those days at dear old Webb were great
-What our children and grandchildren might look upon a crude,
-We look b ack in our hearts with gratitude.
+What our children and grandchildren might look upon as crude,
+We look back in our hearts with gratitude.
 The experiences here with pupils, teachers and nature
 Makes us thank God that we live in America.
 Perhaps most of us have achieved no great success
@@ -393,7 +393,7 @@ But changing diapers was a new experience from which we shied.
 A visit from her when we were in Arizona
 Was cherished by me in my home-sick state
 To her see her dear face was certainly a treat
-It lifted my hear for a short while until I could get home on an even keel.
+It lifted my heart for a short while until I could get home on an even keel.
 
 Evelyn and I made a trip to Florida once
 It is a memory that I cherished much.
@@ -662,7 +662,7 @@ When I think of Mimi, I always want to smile
 Because I know of only one who smiles all the while
 It sorta makes your heart twist when it is turned on to you
 And it makes you want to cherish it and share with a few
-She is a fair-haired young lad that you always dream about
+She is a fair-haired young lady that you always dream about
 But do you know she’s my granddaughter that I’m very proud?
 She bounces in and out and I am always glad
 But when she goes away, I am very sad.

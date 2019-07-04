@@ -6,7 +6,14 @@
   "scripts": {
     "start": "gitbook serve",
     "build": "gitbook build . $BUILD_DIR",
-    "build-book": "gitbook build . $BOOK_BUILD_DIR --format ebook"
+    "build-book": "npm run pdf && npm run epub && npm run mobi",
+    "parse": "gitbook parse",
+    "pdf": "gitbook pdf --log debug",
+    "postpdf": "mv book.pdf $BOOK_BUILD_DIR",
+    "epub": "gitbook epub --log debug",
+    "postepub": "mv book.epub $BOOK_BUILD_DIR",
+    "mobi": "gitbook mobi --log debug",
+    "postmobi": "mv book.mobi $BOOK_BUILD_DIR"
   },
   "author": "Andrew Allbright",
   "license": "ISC",
