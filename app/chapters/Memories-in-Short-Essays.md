@@ -17,6 +17,8 @@ Finally, his grandmother reproached him. “Luke, Jesus would not like for you t
 
 “But grandmother,” Luke says, “Jesus does not know who I am with this mask on.”
 
+<div class="page-break"></div>
+
 <h4 class="center-text"><u>An Autumn Afternoon</u></h4>
 <div class="center-text">With</div>
 <div class="center-text">Mrs. William Dexter Allbright (Mary Ann Smith)</div>
@@ -49,6 +51,8 @@ I am praying every day for changes in making things more pleasant for you.  If I
 --Maggie Toliver Allbright
 </div>
 
+<div class="page-break"></div>
+
 <h4 class="center-text"><u>James Frederick Summers</u></h4>
 <div class="center-text">March 1, 1900 – 1977</div>
 <div class="preformatted">
@@ -78,6 +82,8 @@ He will be sadly missed.  Time will not heal the wounds but it will make them ea
 
 He is survived not only by his wife Ceal, his daughter Margie, and his grandson Gary, but two brothers, Richard Edmund (Eddie) and Aaron Thomas, one sister, Agnes Leona Allegree, and by a multitude of nieces, nephews and relatives who will never forget “Chip.”
 </div>
+
+<div class="page-break"></div>
 
 <h4 class="center-text"><u>Autumn Visit</u></h4>
 <div class="preformatted">

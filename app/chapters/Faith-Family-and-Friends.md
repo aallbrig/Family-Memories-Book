@@ -90,6 +90,8 @@ Homer and I bought Dad’s place in 1944. We, a little later, bought the Horace 
 --Maggie Toliver Allbright
 </div>
 
+<div class="page-break"></div>
+
 <h4 class="center-text"><u>The One Room School</u></h4>
 <div class="preformatted">
 Readin’, writin’, and ‘rithmetic were the main tools
@@ -160,6 +162,7 @@ Have beautiful memories and readin’, writin’, and ‘rithmetic for that phas
 --Maggie Toliver Allbright
 </div>
 
+<div class="page-break"></div>
 
 <h4 class="center-text"><u>Our Days At Webb</u></h4>
 <div class="preformatted">
@@ -275,6 +278,8 @@ But we are only measure by the love of God and man, and our happiness.
 --Maggie Toliver Allbright
 </div>
 
+<div class="page-break"></div>
+
 <h4 class="center-text"><u>Old West Baden High</u></h4>
 <div class="preformatted">
 We are thankful that our school was small,
@@ -298,6 +303,8 @@ Let us all remember dear old West Baden High.
 --Donna Allbright
 --Maggie Allbright
 </div>
+
+<div class="page-break"></div>
 
 <h4 class="center-text"><u>The Big Event</u></h4>
 <div class="center-text">July 12 1926</div>
@@ -365,6 +372,8 @@ God bless you all.
 --Maggie Toliver Allbright, July 1986
 </div>
 
+<div class="page-break"></div>
+
 <h4 class="center-text"><u>Evelyn</u></h4>
 <div class="preformatted">
 Now Evelyn is one of my sisters so dear.
@@ -414,6 +423,8 @@ Is to be happy and keep doing the things you do.
 --Maggie Allbright
 (Sis Number 3)
 </div>
+
+<div class="page-break"></div>
 
 <h4 class="center-text"><u>A Tribute to Our Sister</u></h4>
 <div class="preformatted">
@@ -470,6 +481,7 @@ Ruby this is your day and we are proud to be a part of it.
 --Maggie Toliver Allbright for Lucile, Evelyn, Jewell, Rex, and Pauline.
 </div>
 
+<div class="page-break"></div>
 
 <h4 class="center-text"><u>Kenny</u></h4>
 
@@ -519,6 +531,8 @@ And some day we will see Him face to face.
 All my love,
 Maggie, 1995.
 </div>
+
+<div class="page-break"></div>
 
 <h4 class="center-text"><u>Forever Olive</u></h4>
 <div class="preformatted">
@@ -572,6 +586,8 @@ We all love you and know that your life will continue on
 And your branches influence and live forever and forever.
 </div>
 
+<div class="page-break"></div>
+
 <h4 class="center-text"><u>Among The Pines</u></h4>
 <div class="preformatted">
 Among the many lasting gifts of God,
@@ -602,6 +618,8 @@ And never revealed
 Among the pines!
 </div>
 
+<div class="page-break"></div>
+
 <h4 class="center-text"><u>Breakfast At Blanche's</u></h4>
 
 <div class="preformatted">
@@ -625,6 +643,8 @@ When we go to breakfast at Blanche’s
 Our hearts are light and we have the feel
 Of never having to wonder at chances.
 </div>
+
+<div class="page-break"></div>
 
 <h4 class="center-text"><u>Brenda</u></h4>
 <div class="preformatted">
@@ -654,6 +674,8 @@ love to one who gives so much.
 Love,
 Maggie, 1994.
 </div>
+
+<div class="page-break"></div>
 
 <h4 class="center-text"><u>Mimi</u></h4>
 

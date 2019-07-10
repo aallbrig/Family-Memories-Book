@@ -30,6 +30,8 @@ Try to understand.
 --By Anonymous
 </div>
 
+<div class="page-break"></div>
+
 <h4 class="center-text"><u>Hug Therapy</u></h4>
 <div class="preformatted">
 The theory is that touch is not only nice. It's needed! Scientific research supports the theory that stimulation by touch is absolutely necessary for our physical as well as our emotional well-being.
@@ -45,6 +47,8 @@ Various experiments have shown that touch can:
 
 We are just beginning to understand the power of touch. While there are many forms of touching, we propose that hugging is a very special therapeutic touch that contributes in a major way to healing and health.
 </div>
+
+<div class="page-break"></div>
 
 <h4 class="center-text"><u>The Power of Hugging</u></h4>
 <div class="preformatted">
@@ -83,6 +87,8 @@ Even More Benefits from Hugging
 
 </div>
 
+<div class="page-break"></div>
+
 <h4 class="center-text"><u>Dag Hammarskjold’s Prayer</u></h4>
 <div class="preformatted">
 Give us a pure heart that we may see thee,
@@ -90,6 +96,8 @@ A humble heart that we may hear thee,
 A heart of love that we may serve thee,
 And a heart of faith that we may love thee.
 </div>
+
+<div class="page-break"></div>
 
 <h4 class="center-text"><u>Leisure</u></h4>
 <div class="preformatted">
@@ -118,6 +126,8 @@ The Angel's song!
 
 --Grace Noll Crowell (1877-1969)
 </div>
+
+<div class="page-break"></div>
 
 <h4 class="center-text"><u>Psalms to pray when…</u></h4>
 <div class="preformatted">

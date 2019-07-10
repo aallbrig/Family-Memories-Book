@@ -3,8 +3,8 @@
   "title": "[TODO] Title in Progress",
   "description": "[TODO] Description in progress",
   "pdf": {
-    "fontSize": 20,
-    "pageBreaksBefore": "true"
-  },
-  "plugins": ["html5-video", "gist"]
+    "fontSize": 24,
+    "fontFamily": "Rockwell",
+    "pageBreaksBefore": "//*[contains(concat(\" \", @class, \" \"), \" page-break \")]"
+  }
 }

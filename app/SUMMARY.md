@@ -7,3 +7,4 @@
 * [Inspiration and Reflection](chapters/Inspiration-and-reflection.md)
 * [Appendix A: Making a Memory](chapters/Making-a-memory.md)
 * [Appendix B: Raw Scans of Documents](chapters/Raw-Scans-of-Documents.md)
+* [Download PDF](chapters/Downloads.md)

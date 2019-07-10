@@ -60,6 +60,8 @@ But we can always feel cherished and warm
 Knowing HE is just a prayer away.
 </div>
 
+<div class="page-break"></div>
+
 <h4 class="center-text"><u>Dear Maggie, Get Well</u></h4>
 <div class="preformatted">
 This poem’s for Maggie – our sister we love,
@@ -82,6 +84,8 @@ Our apologies to the family poet laureate – Maggie.
 
 --Jewell Hodges
 </div>
+
+<div class="page-break"></div>
 
 <h4 class="center-text"><u>To Nannan On Her 84th Birthday</u></h4>
 <div class="preformatted">
