@@ -374,6 +374,39 @@ God bless you all.
 
 <div class="page-break"></div>
 
+<h4 class="center-text"><u>Mom</u></h4>
+<div class="preformatted">
+Mom
+
+When we speak or think about Mothers, a picture comes to our minds.  It may be our own mother, ourselves, our daughter and many other kinds.  But when I think of ideal Mothers, I always think of Mom, She is the mother of my husband, but a better mother-in-law than some.
+
+Her home has always been her haven and her life.  She does not appear in public nor care to travel once or twice.  Her family has been her interests, in all they say or do.  To them, no matter what their actions are, she will always be true.
+
+I can see her standing there in the kitchen door from the start greeting us with welcome and good bye as we depart.  She is always dressed in a bib apron and pretty print dress.  That is her uniform, in which she looks her best.  Her lovely white hair glistens, and her gestures say, this is me, your Mom, who is so glad and happy you have come to see.
+
+We no more than get settled inside the kitchen door, and you know what!  Mom begins to say, “Now, Margie, let us put on the coffee pot.”  There’s chicken in the oven, green beans on the stove.  There’s bread and jelly also, or fresh peaches froze.  Also, back in the pantry, there may be pie or cake that she has baked for her children’s sake.  Her food is always delicious and that is part of her delight that gives us that feeling of welcome that makes her a great sight.
+
+Mom does not tell her age, but she is ageless like the sand because she has always been the same since I have been in the clan.  Her pride is also her appearance, and she will say to me I can’t come to your house, I have not fixed my hair for all to see.  Although she always looks good to all and me.
+
+I have never heard her speak a cross word or speak of any crime, but I am sure that she has had aggravations from all of us at times.  There is always a good excuse for her children’s faults because she would not think of them as anything but perfect folks.
+
+Her country home is always neat and her kitchen gleams with blue, a new addition that Wilma was thankful enough to do.  There’s always lovely flowers on the porch in the summer and many cats and kittens there in the sun to slumber.  The beautiful lawn is kept by Kenneth, and Margie is there to score her part in making the home much more.
+
+In the summer she makes jams and jellies to store, cans of green beans, pickles, peaches, and much more.  And when we go to visit her, we cannot go home without some of her jelly to use as our own.
+
+Yes if I was a choosing a model for mothers I would choose Mom Allbright above all others.  She has been Mom to e, our children, grandchildren, and now great ones.  We could not find a greater story or plot, so God cherish her and keep her in that very spot.
+
+
+We love you, Mom.
+
+“Maggie”
+Maggie Allbright
+“Blizzard 1978”
+
+</div>
+
+<div class="page-break"></div>
+
 <h4 class="center-text"><u>Evelyn</u></h4>
 <div class="preformatted">
 Now Evelyn is one of my sisters so dear.
