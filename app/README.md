@@ -1,3 +1,7 @@
 # Introduction
 
+![Maggie Letters 1935][Maggie Letters 1935]
+
 Maggie E. Toliver Allbright (1911-1996) touched the lives of many people with her writing. She wrote poems dedicated to family and friends and gave them away. She wrote some short stories as memories of her childhood and growing up. She wrote eulogies to family members who passed onto their greater rewards. People also wrote things about her. Her wider circle of family reciprocated with tributes of their own to Maggie, also known as “Nannan” to her 15 grandchildren. Collected here are some of the surviving poems, stories, and tributes from and about Maggie. She left behind a treasure trove of materials, including some things she collected that inspired her. The intent is to capture some of those treasures for you and future generations to enjoy and help get an insight into the kind of person she was – a woman of faith, family, and friends.
+
+[Maggie Letters 1935]: media/photographs/Maggie_Letters-1935.JPG
