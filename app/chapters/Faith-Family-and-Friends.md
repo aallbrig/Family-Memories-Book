@@ -712,6 +712,8 @@ Maggie, 1994.
 
 <h4 class="center-text"><u>Mimi</u></h4>
 
+![Maggie & Mimi][Maggie & Mimi]
+
 <div class="preformatted">
 When I think of Mimi, I always want to smile
 Because I know of only one who smiles all the while
@@ -726,3 +728,5 @@ And it seems that I have cooked my last goose!
 But there are holidays to look forward to
 When she will come bouncing and say, “Nannan, Howdy-do.”
 </div>
+
+[Maggie & Mimi]: ../media/photographs/Maggie_Mimi_Scan.JPG
