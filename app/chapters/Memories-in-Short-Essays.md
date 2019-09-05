@@ -9,6 +9,8 @@
 
 <h1 class="center-text">Memories in Short Essays</h1>
 
+![Maggie & Homer][Maggie & Homer]
+
 <h4 class="center-text"><u>Anecdote: The Mask</u></h4>
 
 The choir at a United Methodist church was in practice near Halloween time. A little four-year-old grandson of a member of the was having fun running up and down the aisles of the church with a Halloween mask on.
@@ -121,3 +123,5 @@ We dare to look at each other, Donna and I.  Down our faces, tears are streaming
 
 (Autumn Visit was with Wilma Ray and Donna Allbright Allen, grand-daughter, Oct.11, ’83)
 </div>
+
+[Maggie & Homer]: ../media/photographs/Homer_Maggie_Couple.JPG
