@@ -9,6 +9,8 @@
 
 <h1 class="center-text">TRIBUTES AND WELL WISHES</h1>
 
+![Maggie 1957 Portrait][Maggie 1957 Portrait]
+
 <h4 class="center-text"><u>To My Sister, Maggie</u></h4>
 <div class="preformatted">
 Maggie has devoted herself as a wife
@@ -108,3 +110,5 @@ Someone said to me one time, “You act just like Nannan.” I find that the ult
 --Mimi Marshall Terrell
 March 11, 1995
 </div>
+
+[Maggie 1957 Portrait]: ../media/photographs/Maggie_1957_Protrait.JPG
