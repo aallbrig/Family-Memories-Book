@@ -11,6 +11,8 @@
     "postdocker-build": "id=$(docker create family-memories-book) && docker cp $id:/app/node_modules app/ && docker rm -v $id",
     "docker-run": "docker run --rm -p 4000:4000 family-memories-book",
     "gitbook-build": "docker run -it --rm -v $PWD/app:/app -v $PWD/docs:/docs family-memories-book run build",
+    "gitbook-build-book-export-formats": "docker run -it --rm -v $PWD/app:/app -v $PWD/book:/book family-memories-book run build-book",
+    "postgitbook-build-book-export-formats": "for d in ./{app,docs}/media/pdf; do cp ./book/*.{epub,mobi,pdf} $d; done",
     "gitbook-develop": "docker run -it --rm -p 4000:4000 -p 35729:35729 -v $PWD/app:/app -v $PWD/docs:/docs -v $PWD/book:/book --entrypoint /bin/bash family-memories-book"
   },
   "repository": {
