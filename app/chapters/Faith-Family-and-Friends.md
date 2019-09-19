@@ -655,6 +655,10 @@ Among the pines!
 
 <h4 class="center-text"><u>Breakfast At Blanche's</u></h4>
 
+![Breakfast At Blanche's][Breakfast At Blanche's]
+
+<div class="page-break"></div>
+
 <div class="preformatted">
 Life is full of woes and pleasures
 As anyone of us have learned
@@ -714,6 +718,8 @@ Maggie, 1994.
 
 ![Maggie & Mimi][Maggie & Mimi]
 
+<div class="page-break"></div>
+
 <div class="preformatted">
 When I think of Mimi, I always want to smile
 Because I know of only one who smiles all the while
@@ -730,3 +736,4 @@ When she will come bouncing and say, “Nannan, Howdy-do.”
 </div>
 
 [Maggie & Mimi]: ../media/photographs/Maggie_Mimi_Scan.JPG
+[Breakfast At Blanche's]: ../media/05-2019-Breakfast-At-Blanches/Breakfast%20At%20Blanche's.jpg

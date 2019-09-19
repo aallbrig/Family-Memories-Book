@@ -10,6 +10,11 @@
 <h1 class="center-text">INSPIRATION AND REFLECTION</h1>
 
 <h4 class="center-text"><u>Today</u></h4>
+
+![Today][Today]
+
+<div class="page-break"></div>
+
 <div class="preformatted">
 Mend a quarrel.
 Search out a forgotten friend.
@@ -143,3 +148,5 @@ You feel spiritually dry– Psalm 63: 1-8
 A friend has wronged you– Psalm 55 12-14
 You are thankful – Psalm 136
 </div>
+
+[Today]: ../media/05-2019-Today/Today.jpg

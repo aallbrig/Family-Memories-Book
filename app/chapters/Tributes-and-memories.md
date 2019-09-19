@@ -65,6 +65,11 @@ Knowing HE is just a prayer away.
 <div class="page-break"></div>
 
 <h4 class="center-text"><u>Dear Maggie, Get Well</u></h4>
+
+![Get Well Maggie 1][Get Well Maggie 1]
+
+<div class="page-break"></div>
+
 <div class="preformatted">
 This poem’s for Maggie – our sister we love,
 Whose heart is good – and pure as a dove.
@@ -86,6 +91,8 @@ Our apologies to the family poet laureate – Maggie.
 
 --Jewell Hodges
 </div>
+
+
 
 <div class="page-break"></div>
 
@@ -111,4 +118,5 @@ Someone said to me one time, “You act just like Nannan.” I find that the ult
 March 11, 1995
 </div>
 
+[Get Well Maggie 1]: ../media/05-2019-Get-Well-Maggie/Get%20Well%20Maggie_0001.jpg
 [Maggie 1957 Portrait]: ../media/photographs/Maggie_1957_Protrait.JPG
