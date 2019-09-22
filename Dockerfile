@@ -30,12 +30,6 @@ RUN mv ./node_modules ./node_modules.tmp && \
 RUN sed -i.bak 's/confirm: true/confirm: false/g' \
     /root/.gitbook/versions/3.2.2/lib/output/website/copyPluginAssets.js
 
-# (Temporary) Support alternative base-urls for gists
-# Remove this line once this PR is merged & pushed up
-# https://github.com/blairvanderhoof/gist-embed/pull/72
-RUN sed -i.bak 's/https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/gist-embed\/2.4\/gist-embed.min.js/https:\/\/cdn.rawgit.com\/aallbrig\/gist-embed\/master\/gist-embed.min.js/g' \
-    ./node_modules/gitbook-plugin-gist/index.js
-
 EXPOSE 4000 35729
 
 ENTRYPOINT ["npm"]

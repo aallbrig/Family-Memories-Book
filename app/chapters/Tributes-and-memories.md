@@ -11,6 +11,8 @@
 
 ![Maggie 1957 Portrait][Maggie 1957 Portrait]
 
+<div class="page-break"></div>
+
 <h4 class="center-text"><u>To My Sister, Maggie</u></h4>
 <div class="preformatted">
 Maggie has devoted herself as a wife
@@ -66,10 +68,6 @@ Knowing HE is just a prayer away.
 
 <h4 class="center-text"><u>Dear Maggie, Get Well</u></h4>
 
-![Get Well Maggie 1][Get Well Maggie 1]
-
-<div class="page-break"></div>
-
 <div class="preformatted">
 This poem’s for Maggie – our sister we love,
 Whose heart is good – and pure as a dove.
@@ -92,7 +90,9 @@ Our apologies to the family poet laureate – Maggie.
 --Jewell Hodges
 </div>
 
+<div class="page-break"></div>
 
+![Get Well Maggie 1][Get Well Maggie 1]
 
 <div class="page-break"></div>
 

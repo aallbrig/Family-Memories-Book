@@ -11,6 +11,8 @@
 
 ![Maggie & Homer][Maggie & Homer]
 
+<div class="page-break"></div>
+
 <h4 class="center-text"><u>Anecdote: The Mask</u></h4>
 
 The choir at a United Methodist church was in practice near Halloween time. A little four-year-old grandson of a member of the was having fun running up and down the aisles of the church with a Halloween mask on.

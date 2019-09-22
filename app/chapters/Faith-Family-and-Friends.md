@@ -657,8 +657,6 @@ Among the pines!
 
 ![Breakfast At Blanche's][Breakfast At Blanche's]
 
-<div class="page-break"></div>
-
 <div class="preformatted">
 Life is full of woes and pleasures
 As anyone of us have learned
