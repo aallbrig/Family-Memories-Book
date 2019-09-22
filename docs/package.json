@@ -9,11 +9,11 @@
     "build-book": "npm run pdf && npm run epub && npm run mobi",
     "parse": "gitbook parse",
     "pdf": "gitbook pdf --log debug",
-    "postpdf": "mv book.pdf $BOOK_BUILD_DIR",
+    "postpdf": "mv book.pdf $(cat ./book.json | grep \"fontFamily\" | sed -n -E 's/.*fontFamily\": \"(.*)\",/\\1/p')-$(cat ./book.json | grep \"fontSize\" | sed 's/[^0-9]//g')-book.pdf",
     "epub": "gitbook epub --log debug",
-    "postepub": "mv book.epub $BOOK_BUILD_DIR",
+    "postepub": "mv book.epub $(cat ./book.json | grep \"fontFamily\" | sed -n -E 's/.*fontFamily\": \"(.*)\",/\\1/p')-$(cat ./book.json | grep \"fontSize\" | sed 's/[^0-9]//g')-book.epub",
     "mobi": "gitbook mobi --log debug",
-    "postmobi": "mv book.mobi $BOOK_BUILD_DIR"
+    "postmobi": "mv book.mobi $(cat ./book.json | grep \"fontFamily\" | sed -n -E 's/.*fontFamily\": \"(.*)\",/\\1/p')-$(cat ./book.json | grep \"fontSize\" | sed 's/[^0-9]//g')-book.mobi"
   },
   "author": "Andrew Allbright",
   "license": "ISC",
